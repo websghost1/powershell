@@ -1,0 +1,5 @@
+תיאור: 
+סקריפט זה יתן פינג לכמה מחשבים בו זמנית ויתן תגובה "תקשורת תקינה" או לא תקינה", ניתן לתת פינגים לכמה מחשבים ביחד לפי שמות מחשב וכתובת
+ IP, מתאים גם לארגונים וגם לבית.
+
+This script will check connectivity to your computers in the domain, you can ping several pc's in the same time
